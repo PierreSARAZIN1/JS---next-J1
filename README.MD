@@ -1,7 +1,7 @@
 
 <div align="center">
 
-#  🔥⎾ _**JS - NEEEXT 1**_ ⏋🔥
+#  🔥⎾ _**JS - NEXT 1**_ ⏋🔥
 
 </div>
 
